@@ -77,3 +77,9 @@ https://fakeapi.platzi.com/
 ## versel | (seleccionar el usuario con el que estas logueado, no olvides dejar el mismo nombre de la carpeta)
 
 ## https://store-hlqma9dp5-codemotions-projects.vercel.app/
+
+## LazyLoading && Code Splitting
+
+## Migrar sintaxis a la nueva version 17
+
+## ng g @angular/core:control-flow
